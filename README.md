@@ -1,3 +1,14 @@
+```
+> NAMA KELOMPOK   : Kelompok 13
+> NAMA SUPERVISOR :
+    - SAKTI ARISENA DAMAI PRASETYO (2042221029)
+    - YASMINE YULIANA SALIM (2042221062)
+    - AULIAZQI RARASATI NAJID (2042221116)
+
+> NAMA DEPARTEMEN / INSTITUT : Teknik Instrumentasi / INSTITUT TEKNOLOGI SEPULUH NOPEMBER
+
+```
+
 # 🌾 Rice Classification with Multi-Layer Neural Network in Rust
 
 Proyek ini merupakan implementasi sederhana dari **Multi-Layer Neural Network (MLP)** untuk melakukan klasifikasi varietas beras berdasarkan fitur morfologi seperti *solidity*, *aspect ratio*, *roundness*, dan *compactness*. Proyek ini ditulis dalam bahasa pemrograman **Rust** menggunakan `ndarray` dan `linfa`.
